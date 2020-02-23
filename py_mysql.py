@@ -1,6 +1,9 @@
 import mysql.connector
 import tkinter as tk
 
+def test_placeholder():
+    pass
+
 mydb = mysql.connector.connect(
   #host="localhost",
   host="127.0.0.1",
